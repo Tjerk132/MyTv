@@ -1,0 +1,6 @@
+export { default as Featured } from './Featured'
+export { default as Videos } from './Videos'
+export { default as Playlists } from './Playlists'
+export { default as Community } from './Community'
+export { default as Channels } from './Channels'
+export { default as About } from './About'
